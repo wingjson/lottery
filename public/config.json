@@ -1,0 +1,31 @@
+{
+    "prizeLimits": {
+      "一等奖": 2,
+      "二等奖": 3,
+      "三等奖": 10000000
+    },
+    "prizeList": [
+        "一等奖",
+        "二等奖",
+        "三等奖"
+    ],
+    "defaultPrize": "一等奖",
+    "Penultimate": "二等奖",
+    "names": [
+        "xxxxx", 
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx"
+    ],
+    "title": "xxxxx",
+    "winnerListTitle": "中奖名单"
+}
